@@ -1,6 +1,8 @@
 # loja-mcp — servidor MCP da Loja de Fones
 
-Servidor MCP (Python, [MCP SDK](https://py.sdk.modelcontextprotocol.io/)) via **Streamable HTTP**. Ele expõe a API da loja como tools para agentes de IA. Não guarda dados: cada tool chama a API da loja.
+**Sistemas para Internet** — Grupo: Gabriel Binda, Cauã e Luiza.
+
+Atividade de MCP: conectar a loja virtual a agentes de IA. Servidor MCP (Python, [MCP SDK](https://py.sdk.modelcontextprotocol.io/)) via **Streamable HTTP**. Ele expõe a API da loja como tools para agentes de IA. Não guarda dados: cada tool chama a API da loja.
 
 - **API da loja:** https://loja-api-j1g7.onrender.com (docs em `/docs`)
 - **Endpoint do MCP (local):** `http://127.0.0.1:8000/mcp`
